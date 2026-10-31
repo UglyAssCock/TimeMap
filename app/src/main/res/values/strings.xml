@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeMap</string>
+    <string name="tab_map">Atlas</string>
+    <string name="tab_compare">Compare</string>
+    <string name="tab_today">On This Day</string>
+    <string name="tab_offline">Offline &amp; Saved</string>
+    <string name="tab_quiz">Quiz</string>
+    <string name="search_hint">Search empire, city, or event (e.g. Roman Empire)...</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="reverse">Reverse</string>
+    <string name="forward">Forward</string>
+    <string name="speed">Speed</string>
+    <string name="events_layer">Events Layer</string>
+    <string name="bookmark_add">Bookmark Current View</string>
+    <string name="share_timeline">Share Custom Timeline</string>
+    <string name="import_timeline">Import Shared Timeline Code</string>
+    <string name="era_packs_title">Offline Era Packs &amp; Cache</string>
+    <string name="cached_years_count">Cached maps on device: %1$d / %2$d</string>
+    <string name="download_pack">Download Era Pack</string>
+    <string name="downloaded">Cached Offline</string>
+    <string name="quiz_title">Historical Empire Quiz</string>
+    <string name="quiz_prompt">Which power or civilization controlled %1$s around %2$s?</string>
+    <string name="quiz_score">Score: %1$d / %2$d</string>
+    <string name="quiz_next">Next Question</string>
+    <string name="quiz_jump_map">Inspect on Map</string>
+    <string name="compare_left">Top / Left Map Year</string>
+    <string name="compare_right">Bottom / Right Map Year</string>
+    <string name="region_card_title">Territory Details</string>
+    <string name="ruling_power">Ruling Power / Subject To</string>
+    <string name="tap_map_hint">Tap any colored territory or orange event pin on the map</string>
+    <string name="on_this_day_title">Historical Chronicles &amp; On This Day</string>
+    <string name="jump_to_map">Jump to Year &amp; Location</string>
+    <string name="dark_mode">Dark UI</string>
+    <string name="language">Language</string>
+    <string name="loading_map">Loading historical borders...</string>
+</resources>
