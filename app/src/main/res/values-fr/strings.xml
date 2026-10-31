@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeMap</string>
+    <string name="tab_map">Atlas</string>
+    <string name="tab_compare">Comparer</string>
+    <string name="tab_today">Ce Jour-là</string>
+    <string name="tab_offline">Hors-ligne</string>
+    <string name="tab_quiz">Quiz</string>
+    <string name="search_hint">Chercher un empire ou événement (ex: Roman Empire)...</string>
+    <string name="play">Lecture</string>
+    <string name="pause">Pause</string>
+    <string name="reverse">Reculer</string>
+    <string name="forward">Avancer</string>
+    <string name="speed">Vitesse</string>
+    <string name="events_layer">Événements</string>
+    <string name="bookmark_add">Ajouter aux favoris</string>
+    <string name="share_timeline">Partager la chronologie</string>
+    <string name="import_timeline">Importer un code de chronologie</string>
+    <string name="era_packs_title">Packs d\'Ères Hors-ligne &amp; Cache</string>
+    <string name="cached_years_count">Cartes en cache sur l\'appareil : %1$d / %2$d</string>
+    <string name="download_pack">Télécharger le pack</string>
+    <string name="downloaded">En cache</string>
+    <string name="quiz_title">Quiz des Empires Historiques</string>
+    <string name="quiz_prompt">Quel empire contrôlait %1$s vers %2$s ?</string>
+    <string name="quiz_score">Score : %1$d / %2$d</string>
+    <string name="quiz_next">Question suivante</string>
+    <string name="quiz_jump_map">Voir sur la carte</string>
+    <string name="compare_left">Année Carte 1</string>
+    <string name="compare_right">Année Carte 2</string>
+    <string name="region_card_title">Détails du Territoire</string>
+    <string name="ruling_power">Puissance souveraine</string>
+    <string name="tap_map_hint">Touchez une région colorée ou un point d\'événement</string>
+    <string name="on_this_day_title">Chroniques Historiques &amp; Ce Jour-là</string>
+    <string name="jump_to_map">Aller à l\'année et au lieu</string>
+    <string name="dark_mode">Mode Sombre</string>
+    <string name="language">Langue</string>
+    <string name="loading_map">Chargement des frontières historiques...</string>
+</resources>
