@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أطلس التاريخ TimeMap</string>
+    <string name="tab_map">الأطلس</string>
+    <string name="tab_compare">مقارنة</string>
+    <string name="tab_today">في مثل هذا اليوم</string>
+    <string name="tab_offline">بدون إنترنت</string>
+    <string name="tab_quiz">اختبار</string>
+    <string name="search_hint">ابحث عن إمبراطورية أو حدث (مثال: Roman Empire)...</string>
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="reverse">للخلف</string>
+    <string name="forward">للأمام</string>
+    <string name="speed">السرعة</string>
+    <string name="events_layer">طبقة الأحداث</string>
+    <string name="bookmark_add">حفظ الموقع والسنة</string>
+    <string name="share_timeline">مشاركة الخط الزمني</string>
+    <string name="import_timeline">استيراد كود خط زمني</string>
+    <string name="era_packs_title">حزم العصور بدون إنترنت والتخزين المؤقت</string>
+    <string name="cached_years_count">الخرائط المحفوظة في الهاتف: %1$d / %2$d</string>
+    <string name="download_pack">تحميل الحزمة</string>
+    <string name="downloaded">تم الحفظ</string>
+    <string name="quiz_title">اختبار الإمبراطوريات التاريخية</string>
+    <string name="quiz_prompt">أي قوة أو حضارة سيطرت على %1$s في عام %2$s؟</string>
+    <string name="quiz_score">النتيجة: %1$d / %2$d</string>
+    <string name="quiz_next">السؤال التالي</string>
+    <string name="quiz_jump_map">عرض على الخريطة</string>
+    <string name="compare_left">سنة الخريطة الأولى</string>
+    <string name="compare_right">سنة الخريطة الثانية</string>
+    <string name="region_card_title">تفاصيل الإقليم</string>
+    <string name="ruling_power">القوة الحاكمة</string>
+    <string name="tap_map_hint">اضغط على أي إقليم ملون أو دبوس حدث برتقالي على الخريطة</string>
+    <string name="on_this_day_title">سجلات التاريخ وفي مثل هذا اليوم</string>
+    <string name="jump_to_map">انتقل للسنة والموقع</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="language">اللغة</string>
+    <string name="loading_map">جاري تحميل الحدود التاريخية...</string>
+</resources>
